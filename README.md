@@ -35,5 +35,7 @@ I advise teams on production LLM and agentic AI systems, including:
 
 Engagements are advisory-focused and tailored to real-world deployment constraints.
 
+More details:https://www.notion.so/AI-Systems-Advisory-LLM-Agentic-AI-2e8de2590a828018b10ed48433dbee6c?source=copy_link
+
 
 
