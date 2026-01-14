@@ -20,3 +20,7 @@ My work centers on taking AI agents beyond demos—reducing failure modes, contr
 - LLM evaluation pipelines for reliability and bias
 - Cost-optimized inference and orchestration patterns
 
+### Advisory Focus
+I work at the intersection of AI architecture, evaluation, and operations—helping teams deploy LLM and agentic systems that are dependable, cost-aware, and ready for production.
+
+
