@@ -1,16 +1,22 @@
-## Hi there 👋
+## AI Systems Advisor | LLM & Agentic AI
 
-<!--
-**shrikantkashi2510-gif/shrikantkashi2510-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and evaluate production-grade LLM and agentic AI systems with a focus on reliability, cost efficiency, and real-world deployment.
 
-Here are some ideas to get you started:
+My work centers on taking AI agents beyond demos—reducing failure modes, controlling inference costs, and implementing governance and evaluation frameworks that make AI systems dependable at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Work On
+- Agentic AI system design and orchestration
+- LLM evaluation, monitoring, and failure analysis
+- Cost-optimized inference and deployment
+- Governance patterns for real-world AI systems
+
+### Who I Help
+- Startups scaling LLMs beyond demos into production
+- Enterprises deploying AI agents in finance, ops, and compliance
+- Founders needing AI architecture reviews before large spend
+
+### Featured Work
+- Agentic AI frameworks with tool-use and memory
+- LLM evaluation pipelines for reliability and bias
+- Cost-optimized inference and orchestration patterns
+
