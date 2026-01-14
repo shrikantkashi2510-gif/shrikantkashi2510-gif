@@ -23,18 +23,17 @@ My work centers on taking AI agents beyond demos—reducing failure modes, contr
 ### Advisory Focus
 I work at the intersection of AI architecture, evaluation, and operations—helping teams deploy LLM and agentic systems that are dependable, cost-aware, and ready for production.
 
-## Advisory Work
-
-I advise teams and founders on designing, evaluating, and operating LLM and agentic AI systems in production environments.
-
-Typical engagements include:
-- AI system architecture and design reviews
-- LLM evaluation, reliability, and governance strategy
-- Cost and failure-mode analysis for agentic workflows
-
-If you are deploying LLMs beyond prototypes and need production-grade guidance, feel free to reach out.
 
 📫 Contact: advisory.shrikant@gmail.com
+
+## Advisory Engagements
+
+I advise teams on production LLM and agentic AI systems, including:
+- AI system architecture reviews
+- LLM evaluation and reliability audits
+- Agentic AI production readiness and cost analysis
+
+Engagements are advisory-focused and tailored to real-world deployment constraints.
 
 
 
